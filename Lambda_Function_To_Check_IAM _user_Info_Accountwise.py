@@ -7,7 +7,7 @@ import botocore.exceptions
 import time
 import math
 
-# Constants
+# Constants.
 ORGANIZATION_ID = 'o-xxxxxxxxxxx'
 ROLE_NAME = 'Assume_Role_Child_Account'
 S3_BUCKET_NAME = 'Bucket_Name'
